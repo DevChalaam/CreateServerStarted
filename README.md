@@ -2,7 +2,8 @@
 🎓 THIS SERVER USE NODE JS USING FOR LEARNING AND PORTFOLIO
 
 > server.js file
-```
+
+```js
 // LOAD MODULES USE WITH SERVER
 const http = require('http');
 
